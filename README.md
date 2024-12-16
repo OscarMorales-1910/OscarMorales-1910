@@ -3,7 +3,7 @@
 <h2>IT Projects:</h2>
 
 - <b>Active Directory</b>
-  - [Automated PowerShell Active Directory Account Creation](https://github.com/OscarMorale-1910/Automated_AD_Add_With_PowerShell)
+  - [Automated PowerShell Active Directory Account Creation](https://github.com/OscarMorales-1910/Automated_AD_Add_With_PowerShell)
 
 
 
